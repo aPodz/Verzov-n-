@@ -10,7 +10,7 @@ namespace Verzování
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello WOrld!");
+            Console.WriteLine("Hello World!");
         }
     }
 }
